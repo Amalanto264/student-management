@@ -1,0 +1,68 @@
+
+.mainbody{
+margin: 20px;
+
+}
+
+.header{
+	width: 80%;
+	height: 50px;
+	background: #483bff; 
+}
+.content{
+	width: 80%;
+	height: 500px;
+	background: #829bc2;
+}
+
+.login{
+
+	text-align: center;
+	width: 30%;
+	height: 400px;
+	position: absolute;
+	left: 25%;
+	top: 125px;
+	border-radius: 10%;
+	background: white;
+}
+.details{
+	padding-top: 40px;
+	margin: 20px;
+	background: white;
+}
+
+.register{
+	text-align: center;
+	width: 50%;
+	height: 450px;
+	position: absolute;
+	left: 15%;
+	top: 90px;
+	border-radius: ;
+	background: white;
+
+}
+
+.reg1{
+	text-align: center;
+	width: 50%;
+	height: 450px;
+	position: absolute;
+	left: 15%;
+	top: 90px;
+	border-radius: ;
+	background: white;
+
+
+}
+.newdetails{
+	/*padding-top: 10px;
+	/*margin: 20px;*/
+	background: white;
+}
+
+.btn{
+	margin-top: 20px;
+}
+
